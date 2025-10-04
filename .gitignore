@@ -1,0 +1,10 @@
+# Documentation
+documents/
+
+# Environments
+.env
+.venv
+.python-version
+
+# VS Code workspaces
+*.code-workspace
